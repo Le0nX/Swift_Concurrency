@@ -2,8 +2,8 @@
 Конспект по многопоточности в iOS.
 
 ## Содержание
-* [Обзор GCD и Operations](gcd-&-operations)
-* [О Dispatch Queue подробно](dispatch-queue)
+* [Обзор GCD и Operations](#gcd-&-operations)
+* [О Dispatch Queue подробно](#dispatch-queue)
 
 ## GCD & Operations
 В iOS представлены два основных способа взаимодействия с монгопоточностью:
