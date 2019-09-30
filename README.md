@@ -1,6 +1,8 @@
 # Swift_Concurrency
 Конспект по многопоточности в iOS.
 
+![](https://koenig-media.raywenderlich.com/uploads/2019/07/Concurrency-feature.png)
+
 ## Содержание
 * [Обзор GCD и Operations](#gcd-&-operations)
 * [О Dispatch Queue подробно](#dispatch-queue)
